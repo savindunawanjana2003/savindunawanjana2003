@@ -233,7 +233,6 @@ status     : Open to Internship & Entry-Level Opportunities
   <img src="https://komarev.com/ghpvc/?username=savindunawanjana2003&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views" />
 </p>
 </>
-br
 <hr/>
 <!-- FOOTER WAVE -->
 <div align="center">
