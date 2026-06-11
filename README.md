@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Savindu%20Nawanjana&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Spring%20Boot&descSize=14&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Savindu%20Nawanjana&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%20%7C%20%20Backend%20Systems%20%20%7C%20%20Full%20Stack%20%20%7C%20%20Microservices&descSize=15&descAlignY=60&descColor=8b949e" />
 </div>
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
@@ -15,9 +15,9 @@
 
 </div>
 
+
+<hr/>
 <br/>
-
-
 
 <br>
 
@@ -82,6 +82,11 @@ status     : Open to Internship & Entry-Level Opportunities
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
+
+
+
+<br/>
+
 
 ---
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
