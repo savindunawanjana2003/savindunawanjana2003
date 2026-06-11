@@ -7,10 +7,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <br/>
-<!-- PROFILE VIEWS -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=savindunawanjana2003&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views" />
-</p>
+
 
 <!-- TYPING ANIMATION -->
 <div  align="center"  width="50%">
@@ -225,8 +222,13 @@ status     : Open to Internship & Entry-Level Opportunities
 | 📍 Location | Ambalangoda, Sri Lanka |
 
 </div>
-
-
+ <br/>
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=savindunawanjana2003&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views" />
+</p>
+</>
+br
 <hr/>
 <!-- FOOTER WAVE -->
 <div align="center">
